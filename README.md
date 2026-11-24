@@ -7,7 +7,7 @@ I build web products with **React, Next.js, TypeScript and Node.js**: e-commerce
 ## What I work with
 - **Frontend:** React, Next.js (SSR), TypeScript, Redux / Redux-Saga, Zustand, MUI, Ant Design
 - **Backend & data:** Node.js, Prisma, WebSockets, GraphQL, Python/Django
-- **Testing & tools:** Jest, React Testing Library (learning), Webpack, Swagger
+- **Testing & tools:** Jest, React Testing Library, Webpack, Swagger
 - **AI tools:** I use AI assistants and agents in my daily workflow and I'm exploring AI agents and MCP
 
 ## Selected experience
